@@ -1,19 +1,3 @@
-// nested if-else
-// let a =prompt('hello mr singh')
-// a = Number.parseInt(a)
-// // console.log(typeof a)
-// if (a<0){
-//     alert('its invalid age')
-// }
-// else if (a<9){
-//     alert('your are a kid')
-// }
-// else if(a<18 && a>=9){
-//     alert('you can for drive after 18')
-// }
-// else{
-//     alert('you can drive')
-// }
 
 // switch case
 let a = prompt('its swicth statement')
